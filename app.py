@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # Set page config
 st.set_page_config(page_title="Basic Amenities Dashboard", layout="wide")
 
-st.title("🇲🇾 Malaysia Basic Amenities Access Dashboard")
+st.title("Malaysia Basic Amenities Access")
 st.write("Visualizing access to piped water, sanitation, and electricity by state.")
 
 # 1. Load Data safely
