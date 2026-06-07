@@ -1,0 +1,49 @@
+Unnamed: 0,state,year,piped_water,sanitation,electricity,mean_amenities,cluster_label
+0,Johor,2016,99.9,99.99,100.0,99.96,High Amenities Access
+1,Johor,2019,99.9,99.9,100.0,99.93,High Amenities Access
+2,Johor,2022,99.6,100.0,99.6,99.73,High Amenities Access
+3,Kedah,2016,98.7,99.98,100.0,99.56,High Amenities Access
+4,Kedah,2019,99.5,100.0,100.0,99.83,High Amenities Access
+5,Kedah,2022,99.6,100.0,99.6,99.73,High Amenities Access
+6,Kelantan,2016,65.4,99.67,100.0,88.36,Lower Amenities Access
+7,Kelantan,2019,67.9,100.0,100.0,89.3,Lower Amenities Access
+8,Kelantan,2022,70.2,99.8,70.2,80.07,Lower Amenities Access
+9,Melaka,2016,100.0,99.92,100.0,99.97,High Amenities Access
+10,Melaka,2019,100.0,100.0,100.0,100.0,High Amenities Access
+11,Melaka,2022,100.0,100.0,100.0,100.0,High Amenities Access
+12,Negeri Sembilan,2016,99.9,99.98,100.0,99.96,High Amenities Access
+13,Negeri Sembilan,2019,99.9,100.0,100.0,99.97,High Amenities Access
+14,Negeri Sembilan,2022,99.8,100.0,99.8,99.87,High Amenities Access
+15,Pahang,2016,97.8,99.75,100.0,99.18,High Amenities Access
+16,Pahang,2019,97.9,99.98,100.0,99.29,High Amenities Access
+17,Pahang,2022,98.3,99.4,98.3,98.67,High Amenities Access
+18,Perak,2016,99.4,99.97,100.0,99.79,High Amenities Access
+19,Perak,2019,99.4,99.99,100.0,99.8,High Amenities Access
+20,Perak,2022,99.2,100.0,99.2,99.47,High Amenities Access
+21,Perlis,2016,99.6,99.85,100.0,99.82,High Amenities Access
+22,Perlis,2019,99.6,100.0,100.0,99.87,High Amenities Access
+23,Perlis,2022,100.0,100.0,100.0,100.0,High Amenities Access
+24,Pulau Pinang,2016,99.9,100.0,100.0,99.97,High Amenities Access
+25,Pulau Pinang,2019,99.9,99.95,100.0,99.95,High Amenities Access
+26,Pulau Pinang,2022,100.0,100.0,100.0,100.0,High Amenities Access
+27,Sabah,2016,83.4,96.14,99.5,93.01,Moderate Amenities Access
+28,Sabah,2019,84.7,95.61,99.7,93.34,Moderate Amenities Access
+29,Sabah,2022,87.6,98.8,87.6,91.33,Lower Amenities Access
+30,Sarawak,2016,86.0,99.66,99.6,95.09,High Amenities Access
+31,Sarawak,2019,86.4,99.73,99.8,95.31,High Amenities Access
+32,Sarawak,2022,90.0,100.0,90.0,93.33,Lower Amenities Access
+33,Selangor,2016,100.0,100.0,100.0,100.0,High Amenities Access
+34,Selangor,2019,100.0,100.0,100.0,100.0,High Amenities Access
+35,Selangor,2022,100.0,100.0,100.0,100.0,High Amenities Access
+36,Terengganu,2016,96.0,99.96,100.0,98.65,High Amenities Access
+37,Terengganu,2019,96.2,100.0,100.0,98.73,High Amenities Access
+38,Terengganu,2022,98.5,100.0,98.5,99.0,High Amenities Access
+39,W.P. Kuala Lumpur,2016,100.0,100.0,100.0,100.0,High Amenities Access
+40,W.P. Kuala Lumpur,2019,100.0,100.0,100.0,100.0,High Amenities Access
+41,W.P. Kuala Lumpur,2022,100.0,100.0,100.0,100.0,High Amenities Access
+42,W.P. Labuan,2016,98.5,99.6,100.0,99.37,High Amenities Access
+43,W.P. Labuan,2019,100.0,99.26,100.0,99.75,High Amenities Access
+44,W.P. Labuan,2022,100.0,100.0,100.0,100.0,High Amenities Access
+45,W.P. Putrajaya,2016,100.0,100.0,100.0,100.0,High Amenities Access
+46,W.P. Putrajaya,2019,100.0,100.0,100.0,100.0,High Amenities Access
+47,W.P. Putrajaya,2022,100.0,100.0,100.0,100.0,High Amenities Access
